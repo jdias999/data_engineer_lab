@@ -105,7 +105,7 @@ Principais temas praticados:
 *criação e comparação de snapshots.
 
 
-#  Git e GitHub
+##  Git e GitHub
 
 Utilização do Git e GitHub para:
 
