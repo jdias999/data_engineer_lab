@@ -66,7 +66,7 @@ A estrutura poderá ser modificada conforme novos conteúdos forem adicionados e
 
 Os exercícios e laboratórios presentes atualmente têm como foco a aplicação prática dos seguintes conceitos.
 
-#  Python para Dados
+##  Python para Dados
 
 Estudos voltados para lógica de programação, manipulação de dados e automação de tarefas.
 
@@ -83,7 +83,7 @@ Principais temas praticados:
 *manipulação de DataFrames com Pandas;
 *criação de visualizações com Matplotlib.
 
-#  SQL para Engenharia de Dados
+##  SQL para Engenharia de Dados
 
 Exercícios voltados para consultas, transformação de dados e construção de soluções analíticas utilizando bancos de dados relacionais.
 
@@ -117,7 +117,7 @@ Utilização do Git e GitHub para:
 
 ---
 
-# Roadmap de Desenvolvimento
+## Roadmap de Desenvolvimento
 
 Este repositório continuará sendo expandido conforme novos conhecimentos forem estudados e praticados.
 
