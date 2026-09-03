@@ -20,47 +20,10 @@ Atualmente, o foco principal está na consolidação dos fundamentos de:
 - modelagem e consultas analíticas;
 - organização e versionamento de código.
 
-À medida que novos conhecimentos forem consolidados, o repositório receberá novos módulos relacionados a APIs, formatos de dados, Spark, Databricks, AWS, Docker e Airflow.
-
-> **Sobre o uso de Inteligência Artificial:** ferramentas de IA podem ser utilizadas como apoio durante os estudos para esclarecer dúvidas, sugerir abordagens, ajudar na interpretação de erros e auxiliar na evolução de alguns exercícios. O objetivo, porém, é compreender a lógica implementada, testar diferentes soluções e consolidar os conceitos na prática, e não apenas reproduzir códigos prontos.
+A medida que novos conhecimentos forem consolidados, o repositório receberá novos módulos relacionados a APIs, formatos de dados, Spark, Databricks, AWS, Docker e Airflow.
 
 ---
 
-##  Estrutura atual
-
-Atualmente, o repositório está organizado em duas frentes principais: **Python para Dados** e **SQL para Engenharia de Dados**.
-
-```text
-data_engineering_lab/
-│
-├── Python_DE/
-│   │
-│   ├── Basic/
-│   │   └── Exercícios de lógica, estruturas de dados,
-│   │       Pandas e Matplotlib
-│   │
-│   └── Intermediary/
-│       └── Tratamento, transformação e limpeza
-│           de dados com Pandas
-│
-└── SQL_DE/
-    │
-    ├── Funcionalidades/
-    │   └── DDL, DML, CASE, Subqueries,
-    │       CTEs e operadores de conjunto
-    │
-    ├── Functions/
-    │   └── Funções de texto e data,
-    │       funções aninhadas e Window Functions
-    │
-    └── Merge/
-        └── Rotinas de UPSERT, MERGE
-            e criação de snapshots
-
-```
-A estrutura poderá ser modificada conforme novos conteúdos forem adicionados e os estudos evoluírem.
-
----
 
 ##  Conhecimentos praticados
 
